@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlertDialogueAndSnakeBar</string>
+    <string name="alert_dialogue">Alert Dialogue</string>
+    <string name="snake_bar">Snake Bar</string>
+    <string name="AlertDialog">AlertD</string>
+    <string name="DialogMessage">AreYouSure</string>
+    <string name="custom_dialogue_title">Custom Dialogue Title</string>
+    <string name="this_is_the_custom_dialogue_where_it_works">This is the custom Dialogue where it works</string>
+    <string name="custom_dialogue">Custom Dialogue</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="AlertDialgoue">Are you Sure!</string>
+    <string name="progress_is_on">Progress is On</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="progressbar">ProgressBar</string>
+</resources>
